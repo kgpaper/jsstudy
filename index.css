@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(171, 248, 242);
+}
+
+h1 {
+    color: #487eb0;
+}
+
+.clicked {
+    color: #353b48;
+}
