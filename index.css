@@ -1,11 +1,19 @@
-body{
-    background-color:rgb(171, 248, 242);
+body {
+  background-color: rgb(171, 248, 242);
 }
 
 h1 {
-    color: #487eb0;
+  color: #487eb0;
 }
 
 .clicked {
-    color: #353b48;
+  color: #353b48;
+}
+
+.form {
+  display: none;
+}
+
+.showing {
+  display: block;
 }
