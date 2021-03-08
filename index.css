@@ -10,7 +10,8 @@ h1 {
   color: #353b48;
 }
 
-.form {
+.form,
+.greetings {
   display: none;
 }
 
